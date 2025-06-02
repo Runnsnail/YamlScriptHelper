@@ -43,7 +43,7 @@ YamlHelper: https://github.com/LerDer/YamlHelper/tree/master
 
 ### 兼容性
 
-本插件兼容 IntelliJ IDEA 2024.3 Community Edition 及以上版本。
+本插件兼容 IntelliJ IDEA 2024.3 Community Edition 。
 
 ### 使用方法：
 
